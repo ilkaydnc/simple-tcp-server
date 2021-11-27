@@ -1,0 +1,9 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AndroidLintRtlSymmetry" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RsLiveness" enabled="true" level="ERROR" enabled_by_default="true">
+      <scope name="Open Files" level="ERROR" enabled="true" />
+    </inspection_tool>
+  </profile>
+</component>
